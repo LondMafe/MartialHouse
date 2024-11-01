@@ -1,6 +1,6 @@
 # Martial House 🥋
 
-<img align="center" src="MartialHouse\static\mh.png"/>
+<img align="center" src="\static\mh.png"/>
 
 A web platform for Martial House, a martial arts school. This project provides students and visitors with information on upcoming events, school news, and general info about the school. Additionally, it includes an admin dashboard for managing student data and school updates. Key features include:
 
