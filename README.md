@@ -20,8 +20,8 @@ Built to enhance communication and streamline management for both students and s
 - User: 7634, Password: 1111
 - User: 1639, Password: 2000
 
-_To run use:_ python app.py
+_To run use:_ 
 
 ```
-To run use:_ python app.py
+python app.py
 ```
